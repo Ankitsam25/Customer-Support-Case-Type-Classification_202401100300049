@@ -1,0 +1,2 @@
+# Customer-Support-Case-Type-Classification_202401100300049
+This project uses machine learning to classify customer support cases into Billing, Technical, or General categories based on metadata like message length and response time. A Random Forest Classifier is trained on a labeled dataset and includes a simple prediction interface along with   Data visualization for insights  Interactive prediction tool
